@@ -7,3 +7,6 @@
 # 007. Recursion using parameters
 # 008. Factorial
 # 009. Reverse an array using recursion
+# 010. Check if a string is a palindrome or not
+# 011. Find the Fibonacci number
+# 012. Selection Sort
